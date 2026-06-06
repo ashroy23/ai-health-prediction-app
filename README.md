@@ -37,10 +37,6 @@ GEMINI_API_KEY=your_api_key_here
 
 streamlit run app.py
 
-## Future Improvements
 
-- User authentication and role-based access
-- Health trend visualizations
-- Search and filtering functionality
 - Secure cloud database integration
 - Export patient records to PDF/Excel
